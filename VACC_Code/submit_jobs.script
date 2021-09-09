@@ -1,0 +1,8 @@
+#!/usr/bin/bash
+# submit all jobs to the VACC
+for F in $(cd /users/e/d/edavis4/proverbs/jobtexts  && ls)
+do
+ filename=$F
+ sed -i "9s@.*@~/anaconda3/bin/python geo/get_geo.py -ifile proverbs/jobtexts/${filename}@g" geo_script.script
+ qsub geo_script.script
+done
