@@ -2,8 +2,11 @@
 
 ## Contents
 
-[Project Introduction](#project-introduction)
-
+- [Project Introduction](#project-introduction)
+- [File Directory](#file-directory)
+- [Data](#data)
+- [Results](#results)
+- [Discussion/Conclusion](#discussionconclusion)
 ## Project Introduction
 
 
