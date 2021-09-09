@@ -1,16 +1,18 @@
 # Geography-in-Gutenberg-Corpus
 
-File Directory
+## Project Introduction
 
+
+
+## File Directory
 ### **Individual Files**
 
-**ideas.txt**:  file provides a logbook-like account of our work. It also contains files that were generated or used during the intermediate process.
+    - **ideas.txt**:  file provides a logbook-like account of our work. It also contains 
+     files that were generated or used during the intermediate process.
 
-**report_YellowOctopus.pdf**: scientific report outlining our findings. 
+    - **report_YellowOctopus.pdf**: scientific report outlining our findings. 
 
-
-**gutenberg_analysis.py**: All data manipulation and plotting code
-
+     - **gutenberg_analysis.py**: All data manipulation and plotting code
 
 ### **Folders and their contents**
  
