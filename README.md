@@ -1,5 +1,7 @@
 # Geography-in-Gutenberg-Corpus
 
+See report_gutenberg.pdf for full anaylsis
+
 ## Contents
 
 - [Project Introduction](#project-introduction)
