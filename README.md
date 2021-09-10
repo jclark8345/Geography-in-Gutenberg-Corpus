@@ -6,7 +6,7 @@
 - [File Directory](#file-directory)
 - [Data](#data)
 - [Results](#results)
-- [Discussion/Conclusion](#discussionconclusion)
+- [References](#references)
 ## Project Introduction
 
 Reading literature is often equated to travel, allowing the reader to participate in the
