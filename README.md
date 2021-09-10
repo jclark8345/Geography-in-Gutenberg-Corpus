@@ -64,16 +64,24 @@ A pipeline to the UVM Vermont Advanced Computing Core (VACC) was created, allowi
 
 ## References
 
-Cooper, D. and Gregory, I. N. (2011), Mapping the English Lake District: a literary GIS. Transactions of the Institute of British Geographers, 36: 89-108.
-doi:10.1111/j.1475-5661.2010.00405.x
-Hughes, J. M., Foti, N. J., Krakauer, D. C., & Rockmore, D. N. (2012). Quantitative patterns of stylistic influence in the evolution of literature. Proceedings of the National
-Academy of Sciences, 109(20), 7682–7686. DOI: 1 0.1073/pnas.1115407109
-Murrieta-flores, P., & Howell, N. (2017) Towards the Spatial Analysis of Vague and
-Imaginary Place and Space: Evolving the Spatial Humanities through Medieval Romance, Journal of Map & Geography
-Libraries, 13:1, 29-57, DOI: 1 0.1080/15420353.2017.1307302
-Murrieta-Flores, P., and Martins B. (2019) The geospatial humanities: past, present and future, International Journal of Geographical Information
-Science, 33:12, 2424-2429, DOI: 10.1080/13658816.2019.1645336
-Murrieta-Flores, P., Donaldson, C., & Gregory, I.N. (2017). GIS and Literary History:
-Advancing Digital Humanities research through the Spatial Analysis of historical travel writing and topographical literature. Digital Humanities Quarterly, 11.
-Porter, C., Atkinson, P., and Gregory, I.N. (2018) Space and Time in 100 Million Words: Health and Disease in a Nineteenth-century NewspaperInternational Journal of Humanities and Arts Computing 2018 12:2, 196-216
-Moretti, F. (1999). Atlas of the European Novel: 1800-1900. New York: Verso.
+    Cooper, D. and Gregory, I. N. (2011), Mapping the English Lake District: a literary GIS. 
+     Transactions of the Institute of British Geographers, 36: 89-108.
+     doi:10.1111/j.1475-5661.2010.00405.x
+
+    Hughes, J. M., Foti, N. J., Krakauer, D. C., & Rockmore, D. N. (2012). Quantitative patterns 
+     of stylistic influence in the evolution of literature. Proceedings of the National
+     Academy of Sciences, 109(20), 7682–7686. DOI: 1 0.1073/pnas.1115407109
+
+    Murrieta-flores, P., & Howell, N. (2017) Towards the Spatial Analysis of Vague and
+     Imaginary Place and Space: Evolving the Spatial Humanities through Medieval Romance, Journal of Map & Geography
+     Libraries, 13:1, 29-57, DOI: 1 0.1080/15420353.2017.1307302
+
+    Murrieta-Flores, P., and Martins B. (2019) The geospatial humanities: past, present and future, International Journal of Geographical            Information Science, 33:12, 2424-2429, DOI: 10.1080/13658816.2019.1645336
+
+    Murrieta-Flores, P., Donaldson, C., & Gregory, I.N. (2017). GIS and Literary History:
+     Advancing Digital Humanities research through the Spatial Analysis of historical travel 
+     writing and topographical literature. Digital  Humanities Quarterly, 11.
+
+    Porter, C., Atkinson, P., and Gregory, I.N. (2018) Space and Time in 100 Million Words: Health and Disease in a Nineteenth-century                NewspaperInternational Journal of Humanities and Arts Computing 2018 12:2, 196-216
+
+    Moretti, F. (1999). Atlas of the European Novel: 1800-1900. New York: Verso.
