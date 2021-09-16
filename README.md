@@ -47,6 +47,8 @@ Time series plots were created from the data under different conditions such as 
     - submit_jobs.script: submits all jobs to the VACC
 
     - combine_outputs: combines outputs from the VACC into one json file
+    
+**images**: .png files used within final report
 
 ## Data
 The main source of data was the Gutenberg Corpus of online eBooks. This provided a nearly exhaustive collection of every literary work written or translated into English (about 60,000 works in all). The corpus is available online and is free for everyone. It was developed so that literature would be more accessible to people. Most of the books included have expired copyrights, so there is no need to pay to read them. Each book can be read in HTML format, and included with each book is publication information.
