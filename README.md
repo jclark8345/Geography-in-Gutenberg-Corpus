@@ -64,8 +64,9 @@ A pipeline to the UVM Vermont Advanced Computing Core (VACC) was created, allowi
 
 ## Results
 
-![British Cities](british_cities.png)
+![British Cities](https://github.com/jclark8345/Geography-in-Gutenberg-Corpus/blob/main/images/british_cities.png)
 
+![Common Cities](https://github.com/jclark8345/Geography-in-Gutenberg-Corpus/blob/main/images/common_cities2.png)
 
 ## Discussion/Conclusion
 
