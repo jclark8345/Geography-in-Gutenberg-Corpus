@@ -64,11 +64,32 @@ A pipeline to the UVM Vermont Advanced Computing Core (VACC) was created, allowi
 
 ## Results
 
+![Total Mentions Per Decade](https://github.com/jclark8345/Geography-in-Gutenberg-Corpus/blob/main/images/total10.png)
+
 ![British Cities](https://github.com/jclark8345/Geography-in-Gutenberg-Corpus/blob/main/images/british_cities.png)
+
 
 ![Common Cities](https://github.com/jclark8345/Geography-in-Gutenberg-Corpus/blob/main/images/common_cities2.png)
 
 ## Discussion/Conclusion
+
+As previously mentioned, it is likely that some of the apparent patterns in the analysis are the results of noise. This in part exemplifies the difficulty of computational named entity recognition
+False positives may also have occurred due to occasional failures of the header
+ 
+and footer stripping function, allowing copyright and digitization information with place names to be recorded.
+Another place these errors could have occurred is during parsing. Every book in the Gutenberg corpus includes information about the author and the date and place of
+copyright. It is likely that this data was not trimmed properly for some of the books, so publication cities (and countries) may have been mixed in with names of places mentioned in the books.
+Another source of error could have been the way the dates were recorded. As previously mentioned, “date” refers to the author’s birth date. We did not expect this to affect
+large-scale analysis of trends over time because the data spans such a large time period. 
+In future work it will be important to refine the data collection process to reduce false positives. It will also be important to find a way to be more lenient in filtering country names without significantly increasing false positives. This would allow the inclusion of alternate and historical country names (e.g.
+Gaul and the Holy Roman Empire, or America and the Indies)
+
+A related area of future research would include network analysis. A network could be
+created with place names as nodes with edges between places mentioned in the same book. 
+This project provided a novel, though broad, analysis of the gutenberg dataset, and illuminated several interesting areas for future work in the digital humanities.
+ 
+
+
 
 ## References
 
