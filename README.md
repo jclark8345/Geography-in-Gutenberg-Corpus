@@ -24,7 +24,7 @@ Time series plots were created from the data under different conditions such as 
 
     - report_YellowOctopus.pdf: scientific report outlining our findings. 
 
-     - gutenberg_analysis.py: All data manipulation and plotting code
+    - gutenberg_analysis.py: All data manipulation and plotting code
 
 ### **Folders and their contents**
  
